@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{58EFA7E2-9612-1A6A-EAF5-75BF5C1B1692}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RotateZ.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="34" Column="62" />
+      <File FileName="Assets/Scripts/TerrainManager.cs" Line="34" Column="5" />
+      <File FileName="Assets/Scripts/SmoothFollow.cs" Line="8" Column="2" />
+      <File FileName="Assets/RotateZ.cs" Line="7" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
